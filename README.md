@@ -1,6 +1,6 @@
 # Unit-4-game
 
-###  CrystalsCollector Game 
+###  Crystal Collector Game 
 
 
 The player will have to guess the answer, just like in Word Guess. This time, though, the player will guess with numbers instead of letters. 
